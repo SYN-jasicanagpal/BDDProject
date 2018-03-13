@@ -11,3 +11,4 @@ Scenario Outline: Valid Login in Music Website
 Examples:
   |username|password|
   | user1  |p1      |
+  | user2  |p2      |
