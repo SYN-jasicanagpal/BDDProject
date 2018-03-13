@@ -13,3 +13,7 @@ AND I do not enter registration details
 
 THEN Registration is unsuccessful
 AND I get an error to enter data for mandatory fields
+
+Examples
+|UserName|Password|
+|User1   |Pass1   |
